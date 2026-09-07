@@ -17,3 +17,5 @@ They are literal physics.
 These physics are supported by real‑world evidence. Independent computational systems, reasoning engines, and orchestration frameworks exhibit the same governed flow, branching behavior, 
 and lifecycle progression described here. The accompanying Keynote Comparison Dossier documents this mirroring and establishes falsifiable external validation of the SSPS Unified Physics 
 Stack™.
+
+A private Keynote Comparison Dossier exists that documents real‑world mirroring of these physics across independent computational systems. The dossier provides falsifiable external evidence supporting the SSPS Unified Physics Stack™, including continuity behavior, divergent branching, and lifecycle progression observed in modern governed‑compute environments.
