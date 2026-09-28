@@ -22,3 +22,6 @@ A private Keynote Comparison Dossier exists that documents real‑world mirrorin
 
 A public Grok Reasoning Dossier accompanies this vault, documenting how independent governed‑compute systems exhibit Continuity Physics™, Divergent Physics™, and Lifecycle Physics™ in real‑world operation. Grok’s publicly released token‑level reasoning provides falsifiable external validation of the SSPS Unified Physics Stack™.
 
+All information, structures, definitions, and materials contained within this repository—and any related repositories, vaults, or documentation authored by Southern Star Pro Studios LLC—are not subject to external interpretation, modification, or derivative reframing.
+Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com.
+No third‑party claims of ambiguity, reinterpretation, alternative meaning, or derivative intent are valid without explicit written authorization from Southern Star Pro Studios LLC.
